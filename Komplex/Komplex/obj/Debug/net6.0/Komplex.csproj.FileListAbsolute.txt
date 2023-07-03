@@ -1,0 +1,15 @@
+C:\Users\bmikk\Desktop\OEPhf01\Komplex\Komplex\obj\Debug\net6.0\Komplex.csproj.AssemblyReference.cache
+C:\Users\bmikk\Desktop\OEPhf01\Komplex\Komplex\obj\Debug\net6.0\Komplex.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\bmikk\Desktop\OEPhf01\Komplex\Komplex\obj\Debug\net6.0\Komplex.AssemblyInfoInputs.cache
+C:\Users\bmikk\Desktop\OEPhf01\Komplex\Komplex\obj\Debug\net6.0\Komplex.AssemblyInfo.cs
+C:\Users\bmikk\Desktop\OEPhf01\Komplex\Komplex\obj\Debug\net6.0\Komplex.csproj.CoreCompileInputs.cache
+C:\Users\bmikk\Desktop\OEPhf01\Komplex\Komplex\bin\Debug\net6.0\Komplex.exe
+C:\Users\bmikk\Desktop\OEPhf01\Komplex\Komplex\bin\Debug\net6.0\Komplex.deps.json
+C:\Users\bmikk\Desktop\OEPhf01\Komplex\Komplex\bin\Debug\net6.0\Komplex.runtimeconfig.json
+C:\Users\bmikk\Desktop\OEPhf01\Komplex\Komplex\bin\Debug\net6.0\Komplex.dll
+C:\Users\bmikk\Desktop\OEPhf01\Komplex\Komplex\bin\Debug\net6.0\Komplex.pdb
+C:\Users\bmikk\Desktop\OEPhf01\Komplex\Komplex\obj\Debug\net6.0\Komplex.dll
+C:\Users\bmikk\Desktop\OEPhf01\Komplex\Komplex\obj\Debug\net6.0\refint\Komplex.dll
+C:\Users\bmikk\Desktop\OEPhf01\Komplex\Komplex\obj\Debug\net6.0\Komplex.pdb
+C:\Users\bmikk\Desktop\OEPhf01\Komplex\Komplex\obj\Debug\net6.0\Komplex.genruntimeconfig.cache
+C:\Users\bmikk\Desktop\OEPhf01\Komplex\Komplex\obj\Debug\net6.0\ref\Komplex.dll
